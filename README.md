@@ -6,8 +6,8 @@
 
 ## I'm working on an app development suite called Ridge and a Discord bot library called Growth-JDA
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtpj&repo=ridge)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtpj&repo=growth-jda)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtpj&repo=ridge)](https://github.com/Djtpj/Ridge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtpj&repo=growth-jda)](https://github.com/Djtpj/growth-jda)
 
 ## I also like music :)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k8i8btiebjuytr6ohw6wnchnc&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
