@@ -10,4 +10,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtpj&repo=growth-jda)](https://github.com/Djtpj/growth-jda)
 
 ## I also like music :)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k8i8btiebjuytr6ohw6wnchnc&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k8i8btiebjuytr6ohw6wnchnc&cover_image=true&theme=default)]()
