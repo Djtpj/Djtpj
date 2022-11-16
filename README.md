@@ -1,10 +1,10 @@
 # I'm Roark McKibben
 
-## I mostly develop in Java, however as a result I know a decent amount of C#. I'm learning Web Development, and once I've got that down I'm going for C++ probably.
+## I mostly develop in Java, however as a result I know a decent amount of C#. I'm learning ~~Web Dev~~ **RUST**, and once I've got that down I'm going for C++ probably.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djtpj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## I'm working on an app development suite called Ridge and a Discord bot library called Growth-JDA
+## I'm working on an app development suite called Ridge and a Discord bot library called Growth-JDA, and another project that may or may not see the light of GitHub
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtpj&repo=ridge)](https://github.com/Djtpj/Ridge)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=djtpj&repo=growth-jda)](https://github.com/Djtpj/growth-jda)
